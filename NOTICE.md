@@ -12,8 +12,7 @@ Copyright 2024 Oscar Comunidad
    See the License for the specific language governing permissions and
    limitations under the License.
 
-
-The software packages included in this disk image are subject to individual licensing and terms of service. For more information on the specific licenses for each, and their terms of service, see the following resources:
+   The software packages included in this disk image are subject to individual licensing and terms of service. For more information on the specific licenses for each, and their terms of service, see the following resources:
 
 | Package Name  | License | 
 | ------------- | ------------- |
