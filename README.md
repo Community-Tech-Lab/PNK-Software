@@ -4,6 +4,8 @@ The PNK software sets up a local wireless networking system with a range of inte
 
 **This software package was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
+This server documentation and software are free and open source, made possible by funding from the Internet Society Foundation.
+
 ## Developers/Collaborators/Credits
 
 ### Version 1.0 (2017)
@@ -13,9 +15,7 @@ The original proof of concept, demonstration version of the PNK software image w
 A 32bit PNK build pipeline created to run on both Raspberry Pi 3 and 4 by Josh King @jheretic and released under the GNU General Public License v3.0 (GPLv3). 
 
 ### Version 3.0 (2024)
-A 64bit PNK disk image created to run on Raspberry Pi 5 by Oscar Comunidad @SkyMazter and released under the TBD license. More details below. 
-
-This server documentation and software are free and open source, made possible by funding from the Internet Society Foundation.
+A 64bit PNK disk image created to run on Raspberry Pi 5 by Oscar Comunidad @SkyMazter and released under the Apache License 2.0. More details on licenses below. 
 
 ## Disclaimer of Warranties and Limitation of Liability
 
