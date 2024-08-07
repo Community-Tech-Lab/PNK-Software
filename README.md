@@ -12,7 +12,7 @@ This server documentation and software are free and open source, made possible b
 The original proof of concept, demonstration version of the PNK software image was created to run on a Raspberry Pi 3 by Andy Gunn and was not publicly shared. 
 
 ### Version 2.0 (2019)
-A 32bit PNK build pipeline created to run on both Raspberry Pi 3 and 4 by Josh King @jheretic and released under the GNU General Public License v3.0 (GPLv3). 
+A 32bit PNK build pipeline created to run on both Raspberry Pi 3 and 4 by Josh King [@jheretic](https://github.com/jheretic) and released under the GNU General Public License v3.0 (GPLv3). 
 
 ### Version 3.0 (2024)
 A 64bit PNK disk image created to run on Raspberry Pi 5 by Oscar Comunidad @SkyMazter and released under the [Apache License 2.0](LICENSE). More details on licenses below. 
