@@ -28,7 +28,7 @@ The software packages included in this image file are subject to individual lice
 
 | Package Name  | License |  URL |
 | ------------- | ------------- | ------------- |
-| Apache HTTP Server  | Apache License 2.0  | [[https://www.apache.org/licenses/](https://www.apache.org/licenses/)  |
+| Apache HTTP Server  | Apache License 2.0  | [https://www.apache.org/licenses/](https://www.apache.org/licenses/)  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 
