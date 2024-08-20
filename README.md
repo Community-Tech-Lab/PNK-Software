@@ -1,6 +1,6 @@
 # PNK Software
 
-The PNK software sets up a local wireless networking system with a range of integrated tools, including a server, chat service, and document editor. Once configured, the system operates independently, facilitating seamless communication and collaboration within a self-contained network. (placeholder text) Wired access to a working Internet connection and router is needed for installation. 
+This is a repository of all the software needed to set up a Portable Network Kit (PNK). Included is a configuration file for the router, and a server image designed to be installed on a RaspberryPi 4 or newer. The PNK server image sets up a local web server with a chat service, file sharing system, and document editor. Once configured, the system operates independently, facilitating seamless communication and collaboration within a self-contained network. Wired access to a working Internet connection and router is needed for installation.
 
 **This software package was developed with a strong commitment to community collaboration and shared progress. We encourage you to use and contribute to it in a spirit of collective improvement and mutual benefit, ensuring that it serves the greater good and fosters positive innovation.**
 
