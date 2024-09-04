@@ -19,7 +19,7 @@ A 64bit PNK disk image created to run on Raspberry Pi 5 by Oscar Kevin Comunidad
 
 ## License
 
-Copyright 2024 Oscar Comunidad
+Copyright 2024 Oscar Kevin Comunidad
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
