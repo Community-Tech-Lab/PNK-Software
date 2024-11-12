@@ -15,7 +15,7 @@ The original proof of concept, demonstration version of the PNK software image w
 A 32bit PNK build pipeline created to run on both Raspberry Pi 3 and 4 by Josh King [@jheretic](https://github.com/jheretic) and released under the GNU General Public License v3.0 (GPLv3). 
 
 ### Version 3.0 (2024)
-A 64bit PNK disk image created to run on Raspberry Pi 5 by Oscar Kevin Comunidad [@SkyMazter](https://github.com/SkyMazter) and released under the [Apache License 2.0](LICENSE).  
+A 64bit [PNK disk image](https://github.com/Community-Tech-Lab/PNK-Software/releases/tag/v3.0.0) created to run on Raspberry Pi 5 by Oscar Kevin Comunidad [@SkyMazter](https://github.com/SkyMazter) and released under the [Apache License 2.0](LICENSE).  
 
 ## License
 
